@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(44, 44, 44);
+}
+
+h1 {
+    color: white;
+}
+
+header {
+    background-color: rgb(95, 95, 255);
+    font-size: 20px;
+}
+
+nav {
+    color: white;
+    background-color: thistle;
+}
+
+a {
+    color: green;
+}
+
+p {
+    color: white;
+}
+
+h3
+{
+    color:white;
+}
